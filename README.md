@@ -18,7 +18,8 @@ degree here.
 
 ## Prerequisites
 
--   [ga-wdi-boston/cs-algorithms](https://github.com/ga-wdi-boston/cs-algorithms)
+-   [Computer Science:
+    Algorithms](https://github.com/ga-wdi-boston/cs-algorithms).
 
 ## Objectives
 
@@ -39,17 +40,10 @@ particular data structure and set of guiding questions. After group research is
 complete, we'll compile our notes into a single study guide. Accompanying
 diagrams may be made on the whiteboard.
 
-### Lists (Primitive Arrays, Stacks, Queues)
-
-1.  What is a list, also known as a primitive array?
-1.  What is the time-complexity of search for a primitive array?
-1.  What differentiates a queue from a stack?
-1.  **Bonus:** What is the time-complexity of insertion? Deletion?
-
 ### Linked Lists
 
-1.  What is a linked list? How is it different from a primitive array?
-1.  What is the time-complexity to search for a linked list?
+1.  What is a linked list?
+1.  What is the time-complexity to search a linked list?
 1.  Does it matter whether the list is sorted or not? Why?
 1.  **Bonus:** What is a doubly linked list?
 1.  **Bonus:** What is the time-complexity of insertion? Deletion?
