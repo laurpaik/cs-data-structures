@@ -125,7 +125,7 @@ These can be attempted in any order; they are not dependent on each other.
     first element of a linked list, would detect whether the list contains a
     loop.
 
-## Lab: Implement a Stack and a Queue
+## Optional Lab: Implement a Stack and a Queue
 
 Stacks and queues are basically variants of the linked list that are optimized
 for certain operations. Usually all of these operations take O(1) time and
@@ -150,7 +150,7 @@ the last exercise, you should be able to reuse it as-is.
 Question: What kinds of algorithms or applications would be well-suited to
 stacks or queues?
 
-## Lab: Implement a Binary Tree
+## Optional Lab: Implement a Binary Tree
 
 Both arrays and linked lists suffer from poor lookup and insertion performance:
 Finding a specific value, or inserting a new value at an arbitrary position,
