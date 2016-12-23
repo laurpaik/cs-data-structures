@@ -48,10 +48,10 @@ diagrams may be made on the whiteboard.
 1.  **Bonus:** What is a doubly linked list?
 1.  **Bonus:** What is the time-complexity of insertion? Deletion?
 
-### Associative Array
+### Dictionary
 
-1.  What is an associative array? When would you use one?
-1.  What is the time-complexity to search an associative array?
+1.  What is an dictionary? When would you use one?
+1.  What is the time-complexity to search a dictionary?
 1.  What is a hash function?
 1.  What is a hash collision?
 1.  **Bonus:** What is the time-complexity of insertion? Deletion?
