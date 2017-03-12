@@ -87,9 +87,9 @@ and a reference to the "next" element in the list. Adding a new element is as
 simple as reserving the memory space for that element, and pointing the "next"
 reference of what was previously the last element to the new element.
 
-Implement a `LinkedList` class in Ruby or JavaScript. **Do not use arrays or
-hashes,** or any of the built-in data types for that matter. Your class should
-be capable of the following:
+Implement a `LinkedList` class in Ruby or JavaScript. **Do not implement the
+list as an array or hash,** or any built-in data type. Your class should be
+capable of the following:
 
 -   Append a new value to the end of the list
 -   Prepend a new value to the beginning of the list
