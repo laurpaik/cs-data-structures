@@ -50,11 +50,17 @@ diagrams may be made on the whiteboard.
 
 ### Dictionary
 
-1.  What is an dictionary? When would you use one?
+What is an dictionary? When would you use one?
+  2. A dictionary is an abstract data structure that maps keys to values
+  3. (Example: Hashes are types of dictionaries)
 1.  What is the time-complexity to search a dictionary?
+  2. O(1) (linear)
 1.  What is a hash function?
+  2. A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
 1.  What is a hash collision?
+  2. Two inputs, one output
 1.  **Bonus:** What is the time-complexity of insertion? Deletion?
+  2. [O(1) for both](http://people.cs.aau.dk/~normark/oop-csharp/html/notes/collections-note-time-complexity-dictionaries.html)
 
 ### Tree
 
